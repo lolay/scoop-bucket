@@ -8,11 +8,11 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/lolay/triage/releases/download/v0.1.0/triage_0.1.0_windows_amd64.zip",
-      "hash": "e64a9a9c6d343bb55458979ce453176aecd6ddc189365238f4cee82eb98a59e2"
+      "hash": "07edce7557733c3305ac97d08a507bae15dcccc8ebc62affbe8258b6d04dcac0"
     },
     "arm64": {
       "url": "https://github.com/lolay/triage/releases/download/v0.1.0/triage_0.1.0_windows_arm64.zip",
-      "hash": "b84d496cdc89f26f3881bd27639b06e05671e708fa198d2dab5645299d9af0ec"
+      "hash": "f6fe1b9852e830dd99515ffe70de4c755c2256af30be47e1400ea60d7c0abfda"
     }
   },
   "checkver": {
