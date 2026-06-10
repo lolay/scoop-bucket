@@ -1,18 +1,18 @@
 {
   "$schema": "https://raw.githubusercontent.com/ScoopInstaller/Scoop/master/schema.json",
-  "version": "0.1.0",
+  "version": "0.4.0",
   "description": "The environment doctor - declarative prerequisite checks",
   "homepage": "https://github.com/lolay/triage",
   "license": "Apache-2.0",
   "bin": "triage.exe",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/lolay/triage/releases/download/v0.1.0/triage_0.1.0_windows_amd64.zip",
-      "hash": "07edce7557733c3305ac97d08a507bae15dcccc8ebc62affbe8258b6d04dcac0"
+      "url": "https://github.com/lolay/triage/releases/download/v0.4.0/triage_0.4.0_windows_amd64.zip",
+      "hash": "beeeecf2143bb6db19121bf5d838cb6b7a88b37bf0f4d83255927d40df82a0dd"
     },
     "arm64": {
-      "url": "https://github.com/lolay/triage/releases/download/v0.1.0/triage_0.1.0_windows_arm64.zip",
-      "hash": "f6fe1b9852e830dd99515ffe70de4c755c2256af30be47e1400ea60d7c0abfda"
+      "url": "https://github.com/lolay/triage/releases/download/v0.4.0/triage_0.4.0_windows_arm64.zip",
+      "hash": "e9f010182a39fdc91ba3f858cd181976ebd01e99ddb68c3fcb3997ef46e9c60f"
     }
   },
   "checkver": {
